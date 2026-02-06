@@ -1,0 +1,13 @@
+pyautogui
+Windows API hooking
+
+Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+UI-TARS: Pioneering Automated GUI Interaction with Native Agents
+ReAct: Synergizing Reasoning and Acting in Language Models
+OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+ShowUI: One Vision-Language-Action Model for GUI Visual Agent
+V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs
+
+Mind2Web: Towards a Generalist Agent for the Web
+Agent s: An open agentic framework that uses computers like a human.
+Windows agent arena: Evaluating multi-modal os agents at scale
